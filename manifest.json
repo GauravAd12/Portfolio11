@@ -1,0 +1,14 @@
+{
+  "name": "Adhikari Gaurav - Portfolio",
+  "short_name": "AG Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0ea5e9",
+  "theme_color": "#06b6d4",
+  "description": "Modern portfolio showcasing projects, skills, and certifications.",
+  "icons": [
+    { "src": "assets/profile.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
+
+
